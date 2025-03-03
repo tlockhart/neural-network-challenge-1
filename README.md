@@ -10,7 +10,7 @@ Using neural networks and machine learning techniques, the model analyzes borrow
 
 ## Setup
 
-The Jupyter Notebook for this project is named `student_loads_with_deep_learing.ipynb`. Ensure you have the required dependencies installed before proceeding.
+The Jupyter Notebook for this project is named `student_loans_with_deep_learning.ipynb`. Ensure you have the required dependencies installed before proceeding.
 
 ### Requirements
 
@@ -27,7 +27,7 @@ The Jupyter Notebook for this project is named `student_loads_with_deep_learing.
    git clone git@github.com:tlockhart/neural-network-challenge-1.git
    ```
 2. Open Visual Studio Code.
-3. Open the `student_loads_with_deep_learing.ipynb` Jupyter notebook.
+3. Open the `student_loans_with_deep_learning.ipynb` Jupyter notebook.
 4. Select **Run All** to execute the notebook.
 5. If prompted for a kernel, select **Python 3.10.4.1**.
 
